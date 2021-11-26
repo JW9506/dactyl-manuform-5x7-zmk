@@ -20,7 +20,7 @@
                 &kp HOME  &kp Z    &kp X  &kp C  &kp D  &kp V                       &kp K  &kp H  &kp COMMA  &kp DOT   &kp FSLH  &kp END
                 &kp DOWN  &kp GRAVE &kp SQT &kp LEFT                                              &kp RIGHT  &kp LBKT  &kp RBKT    &kp UP
                                             &kp BSPC  &mo LWR                   &kp RET  &kp SPACE
-                                            &kp LSHFT &kp LGUI                  &kp LGUI &mo RSE
+                                            &kp ESC   &kp LGUI                  &kp LGUI &mo RSE
                                             &kp LCTRL &kp LALT                  &kp RALT &kp RCTRL
             >;
         };
