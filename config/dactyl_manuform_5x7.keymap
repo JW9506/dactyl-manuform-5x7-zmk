@@ -41,11 +41,11 @@
 
         default_layer {
             bindings = <
-&kp TAB       &none  &kp LA(LEFT) &kp LA(TAB) &kp LA(RIGHT)  &none              &none                                                                                                       &none         &none      &none    &kp LC(TAB)  &none      &none      &kp LC(LGUI)
-     &kp LC(LSHFT)  &kp Q     &kp W     &kp F      &kp P     &kp B              &kp F12                                                                                                        &kp F11       &kp J      &kp L      &kp U      &kp Y      &kp SEMI   &kp RC(RSHFT)
-     &pht LSHFT ESC &kp A     &kp R     &kp S      &kp T     &kp G             &kp EQUAL                                                                                                       &kp MINUS     &kp M      &kp N      &kp E      &kp I      &kp O      &kp RSHFT
-     &kp LCTRL      &kp Z     &kp X     &kp C      &kp D     &kp V                                                                                                                                           &kp K      &kp H      &kp COMMA  &kp DOT   &kp FSLH    &kp RCTRL
-     &kp DOWN       &kp GRAVE &kp SQT   &kp LEFT                                                                                                                                                                        &kp RIGHT  &kp LBKT  &kp RBKT    &kp UP
+&kp TAB       &none  &kp LA(LEFT) &kp LA(TAB) &kp LA(RIGHT) &kp LA(LSHFT)       &none                                                                                                       &none         &none      &none    &kp LC(TAB)  &none      &none      &kp LC(LGUI)
+&kp LC(LSHFT)  &kp Q     &kp W     &kp F      &kp P     &kp B              &kp F12                                                                                                        &kp F11       &kp J      &kp L      &kp U      &kp Y      &kp SEMI   &kp RC(RSHFT)
+&pht LSHFT ESC &kp A     &kp R     &kp S      &kp T     &kp G             &kp EQUAL                                                                                                       &kp MINUS     &kp M      &kp N      &kp E      &kp I      &kp O      &kp RSHFT
+&kp LCTRL      &kp Z     &kp X     &kp C      &kp D     &kp V                                                                                                                                           &kp K      &kp H      &kp COMMA  &kp DOT   &kp FSLH    &kp RCTRL
+&kp DOWN       &kp GRAVE &kp SQT   &kp LEFT                                                                                                                                                                        &kp RIGHT  &kp LBKT  &kp RBKT    &kp UP
                                                                                                                 &kp BSPC  &mo LWR                   &kp RET  &kp SPACE
                                                                                                                 &kp LALT &kp LCTRL                 &kp RCTRL &kp RALT
                                                                                                                 &kp LGUI &kp LA(SPACE)         &kp RA(SPACE) &kp LGUI
